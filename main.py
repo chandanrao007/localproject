@@ -3,4 +3,4 @@
 
 #this is form feature1
 
-spark.coore=4
+spark.coore=6
